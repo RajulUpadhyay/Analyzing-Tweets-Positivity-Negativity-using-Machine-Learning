@@ -28,8 +28,10 @@ Train three machine learning models for sentiment classification:
 3. Bernoulli Naive Bayes
 
 **Model Evaluation:**
+
 Evaluate model performance using metrics like accuracy, precision, recall, and F1-score. Select the best-performing model based on these metrics.
 
 **Sentiment Analysis on New Data:**
+
 Utilize the trained model to classify sentiment in the newly collected tweets mentioning "Samsung" and "Apple".
 Analyze the results to compare public sentiment between the two brands.
